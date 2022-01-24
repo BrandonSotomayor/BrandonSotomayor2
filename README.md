@@ -1,1 +1,1 @@
-# BrandonSotomayor2
+# “Primer fitxer al primer repositori de <BrandonSotomayor2>”
